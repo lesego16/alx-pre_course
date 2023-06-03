@@ -1,2 +1,1 @@
-clear
-exit
+this is ben ten
